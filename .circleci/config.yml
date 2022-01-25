@@ -1,7 +1,6 @@
 ---
 version: 2.1
-orbs:
-  prometheus: prometheus/prometheus@0.15.0
+
 executors:
   # This must match .promu.yml.
   golang:
